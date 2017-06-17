@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+    padding: 0;
+
+    font-size: 17px;
+    line-height: 1.47059em;
+    font-family: helvetica, arial, sans-serif;
+
+    background-color: #afbf97;
+    color: black;
+}
+
+header {
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    width: 100%;
+    box-sizing: border-box;
+    padding: 1.47059em;
+
+    background-color: #111a05;
+    color: white;
+}
+
+.branding {
+    font-size: 2.5em;
+    text-shadow: .1em .1em .2em -.1em gray;
+}
